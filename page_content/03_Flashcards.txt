@@ -1,0 +1,5 @@
+Para visualizar um flashcard, siga os seguintes passos:
+
+1 - Selecione a disciplina;
+
+2 - Selecione o flashcard;

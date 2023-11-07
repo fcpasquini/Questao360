@@ -1,0 +1,5 @@
+Para visualizar uma questão, siga os seguintes passos:
+
+1 - Selecione a disciplina ou clique no botão de aleatório, para gerar uma questão aleatória;
+
+2 - Selecione a subdisciplina ou clique no botão de aleatório, para gerar uma questão aleatória da disciplina escolhida;
